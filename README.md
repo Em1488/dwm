@@ -1,8 +1,8 @@
 # dwm - dynamic window manager
 my dwm fork
+todo: change man via dwm.1
 
 ============================
-
 dwm is an extremely fast, small, and dynamic window manager for X.
 
 
