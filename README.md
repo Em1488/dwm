@@ -1,5 +1,6 @@
 # dwm - dynamic window manager
 my dwm fork
+
 todo: change man via dwm.1
 
 
